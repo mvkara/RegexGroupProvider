@@ -1,25 +1,25 @@
 type file
 id RegexGroupProvider
 authors
-    Steffen Forkmann, Gustavo Guerra, JohnDoeKyrgyz, Don Syme
+    mvkra
 owners
-    Steffen Forkmann, Gustavo Guerra, JohnDoeKyrgyz, Don Syme
+    mvkra
 projectUrl
-    http://github.com/fsprojects/RegexGroupProvider
+    http://github.com/mvkra/RegexGroupProvider
 iconUrl
     https://raw.githubusercontent.com/fsprojects/RegexGroupProvider/master/docs/files/img/logo.png
 licenseUrl
-    http://github.com/fsprojects/RegexGroupProvider/blob/master/LICENSE.txt
+    https://raw.githubusercontent.com/mvkra/RegexGroupProvider/master/LICENSE
 requireLicenseAcceptance
     false
 tags
     F# fsharp typeproviders RegexGroupProvider
 summary
-    This library is for the .NET platform implementing RegexGroupProvider.
+    Implments a simple Regex based type provider.
 description
     This library is for the .NET platform implementing RegexGroupProvider.
 tags
-    F# fsharp typeproviders RegexGroupProvider
+    F# fsharp typeproviders regex
 files
     bin/Release/net45/RegexGroupProvider.Runtime.* ==> lib/net45
     bin/Release/netstandard2.0/RegexGroupProvider.Runtime.* ==> lib/netstandard2.0
