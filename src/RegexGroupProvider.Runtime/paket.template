@@ -15,9 +15,9 @@ requireLicenseAcceptance
 tags
     F# fsharp typeproviders RegexGroupProvider
 summary
-    Implments a simple Regex based type provider.
+    Implements a simple Regex based type provider allowing type safe access to Regex groups.
 description
-    This library is for the .NET platform implementing RegexGroupProvider.
+    Implements a simple Regex based type provider allowing type safe access to Regex groups.
 tags
     F# fsharp typeproviders regex
 files

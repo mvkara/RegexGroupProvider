@@ -21,4 +21,4 @@ Note: I'm aware of another Regex Provider with potentially more features but at 
 
     dotnet build -c release
 
-    .paket\paket.exe pack src\RegexGroupProvider.Runtime\paket.template --version 0.0.1
+    .paket/paket.exe pack src/RegexGroupProvider.Runtime/paket.template --version 0.0.1
